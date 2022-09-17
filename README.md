@@ -1,3 +1,7 @@
+# Hi, I'm Oscar! 
+
+![](https://komarev.com/ghpvc/?username=cleveroscar)
+
 [![CleverOscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleveroscar)](https://github.com/cleveroscar/github-readme-stats)
 <!--
 **CleverOscar/CleverOscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
